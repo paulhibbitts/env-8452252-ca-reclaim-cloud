@@ -1,6 +1,6 @@
 # Overview
 
-**Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it. My edit!
+**Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
 ![The Markdown Mark](https://upload.wikimedia.org/wikipedia/commons/3/37/Markdown-mark-solid.svg)  
 _Figure 1: The Markdown Mark_
